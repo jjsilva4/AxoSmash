@@ -1,3 +1,3 @@
 AxoSmash
 
-A Super Smash Bros Ultimate Tournament
+A Super Smash Bros Melee Tournament
